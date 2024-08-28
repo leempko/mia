@@ -4,10 +4,10 @@ This is the web
 
 ## Schedule
 ### Week 1
-|  Activitity | Date | Topic | Materials |
+|  Date | Activitity | Topic | Materials |
 | --- | --- | --- | --- |
-| Lecture | 23 Nov | Introduction | |
-| Exercise | 26 Nov |             | |
+| 23 Nov | Lecture  | Introduction | - [book pdf](./book/mia.pdf) <br/> - [book pdf](./book/mia.pdf) |
+| 26 Nov | Exercise |              | |
 
 ### Week 2
 
