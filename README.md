@@ -6,7 +6,7 @@ This is the web
 ### Week 1
 |  Date | Activity | Topic | Materials |
 | ---   | ---      | ---   | ---       |
-| 23 Nov | Lecture  | Introduction | book chapter 2 ([html](./book/html/index.html) [pdf](./book/mia.pdf)) |
+| 23 Nov | Lecture  | Introduction | chapter 2 ([html](./book/html/index.html) [pdf](./book/mia.pdf)) |
 | 26 Nov | Exercise | Smoothing and Interpolation | (submission deadline: 3 Dec at 23:59) |
 
 ### Week 2
