@@ -1,3 +1,9 @@
+---
+title: "XXX"
+---
+
+This is the web
+
 # mia
 
 Hello world
