@@ -4,10 +4,15 @@ This is the web
 
 ## Schedule
 ### Week 1
-|  Date | Activitity | Topic | Materials |
-| --- | --- | --- | --- |
-| 23 Nov | Lecture  | Introduction | - [book pdf](./book/mia.pdf) <br/> - [book pdf](./book/mia.pdf) |
-| 26 Nov | Exercise |              | |
+|  Date | Activity | Topic | Materials |
+| ---   | ---      | ---   | ---       |
+| 23 Nov | Lecture  | Introduction | chapter 2 ([html](book/html/index.html) [pdf](book/mia.pdf)) |
+| 26 Nov | Exercise | Smoothing and Interpolation | - <br/> - submission deadline: 3 Dec at 23:59 |
+
+|  Date | Activity | Topic | Materials |
+| ---   | ---      | ---   | ---       |
+| 23 Nov | Lecture  | Introduction | chapter 2 ([html](./book/html/index.html) [pdf](./book/mia.pdf)) |
+| 26 Nov | Exercise | Smoothing and Interpolation | - <br/> - submission deadline: 3 Dec at 23:59 |
 
 ### Week 2
 
@@ -16,10 +21,3 @@ This is the web
 | 1 | 
 | 2 |
 
-## mia
-
-Hello world
-
-[book pdf](./book/mia.pdf).
-
-smoothing and interpolation: [pdf](./lecture_slides/smoothing_and_interpolation/smoothing_and_interpolation.pdf) [html](./lecture_slides/smoothing_and_interpolation/html/index.html)
