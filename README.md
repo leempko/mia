@@ -1,10 +1,8 @@
----
-title: "XXX"
----
+# Medical Image Analysis
 
 This is the web
 
-# mia
+## mia
 
 Hello world
 
