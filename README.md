@@ -1,4 +1,22 @@
-# mia
+# Medical Image Analysis
+
+This is the web
+
+## Schedule
+### Week 1
+|  Date | Activitity | Topic | Materials |
+| --- | --- | --- | --- |
+| 23 Nov | Lecture  | Introduction | - [book pdf](./book/mia.pdf) <br/> - [book pdf](./book/mia.pdf) |
+| 26 Nov | Exercise |              | |
+
+### Week 2
+
+| Week |
+| --- |
+| 1 | 
+| 2 |
+
+## mia
 
 Hello world
 
