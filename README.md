@@ -9,6 +9,9 @@ Lectures: Mondays 12.15–14.00, Health Technology House, Auditorio - F239a
 Exercises: Thursdays 12.15–14.00, Health Technology House, Auditorio - F239a (before the autumn break)
                                   Undergraduate Centre, A-sali (Aalto-sali) - Y202a (after the autumn break)
 
+No exercises on the following dates: Thu 5 Sep, Thu 10 Oct, Thu 21 Nov and Thu 28 Nov
+
+
 ### Week 1
 
 |  Date | Activity | Location | Topic |  |
