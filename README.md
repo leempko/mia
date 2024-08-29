@@ -17,7 +17,7 @@ All material is available from a [git repo](https://github.com/leempko/mia/) und
 
 ## Implementation
 
-This website contains links to the teaching material and the schedule (see below). The [MyCourses](https://mycourses.aalto.fi/course/view.php?id=44862) website will be used in conjunction for all announcements, discussion fora (one general forum and a separate forum for each exercise assignment), and exercise assignments (material, report submissions and peer grading).
+This website contains links to the teaching material and the schedule (see below). The [MyCourses](https://mycourses.aalto.fi/course/view.php?id=44862) website will be used in conjunction for all announcements, discussion fora (one [general forum](https://mycourses.aalto.fi/mod/forum/view.php?id=1232246) and a separate forum for each exercise assignment), and exercise assignments (material, report submissions and peer grading).
 
 The course is heavily focused on solving actual exercises in Python (six in total). These exercises can be performed in groups of max 3 students. The course grading is based mostly (80% weight) on final report scores given by the course personnel (teacher and teaching assistants), after an initial peer grading by fellow students. Participating in the peer grading is required to pass the course, and the quality of peer grading carries a weight of 10%. Each student should also participate in student presentations where submitted reports are analyzed and discussed in class (weight 10%).
 
