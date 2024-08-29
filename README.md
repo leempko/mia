@@ -1,8 +1,16 @@
 # Medical Image Analysis
 
-This is the web
+This is the web NBE-E4010
 
 ## Schedule
+
+
+### Week 1
+
+|  Date | Activity | Location | Topic | Materials |
+| ---   | ---      | ---   | --- | --- |
+| Mon 2 Sep | Lecture |  XXX | Introduction to the course | slides: [pdf](lecture_slides/introduction/intro.pdf) |
+
 
 ### Week 1
 
