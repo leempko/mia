@@ -2,11 +2,21 @@
 
 This is the website of the Medical Image Analysis course (NBE-E4010) at Aalto University taught by [Koen Van Leemput](https://users.aalto.fi/vanlek2).
 
+The teaching material used in the course consists of a tailor-made book and lecture slides:  
+- book: [html](book/html/index.html) [pdf](book/mia.pdf)
+- lectures: xxx
+  
+All material is available from a [Git repo](https://github.com/leempko/mia/) under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license, and can therefore be used freely in other courses.
+
+
+
 https://mycourses.aalto.fi/course/view.php?id=44862
 
 
 
 ## Schedule
+
+2024
 
 Lectures: Mondays 12.15–14.00, Health Technology House, Auditorio - F239a
 Exercises: Thursdays 12.15–14.00, Health Technology House, Auditorio - F239a (before the autumn break)
