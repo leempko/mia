@@ -4,9 +4,16 @@ This is the website of the Medical Image Analysis course (NBE-E4010) at Aalto Un
 
 The teaching material used in the course consists of a tailor-made book and lecture slides:  
 - book: [html](book/html/index.html) [pdf](book/mia.pdf)
-- lectures: xxx
-  
-All material is available from a [Git repo](https://github.com/leempko/mia/) under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license, and can therefore be used freely in other courses.
+- lectures:
+  + Image smoothing and interpolation: [html](lecture_slides/smoothing_and_interpolation/html/index.html) [pdf](lecture_slides/smoothing_and_interpolation/smoothing_and_interpolation.pdf)
+  + Coordinate systems, linear spatial transformations, landmark-based registration [html](lecture_slides/landmark_based_registration/html/index.html) [pdf](lecture_slides/landmark_based_registration/landmark_based_registration.pdf)
+  + Intensity-based registration: [html](lecture_slides/intensity_based_registration/html/index.html) [pdf](lecture_slides/intensity_based_registration/intensity_based_registration.pdf)
+  + Nonlinear registration: [html](lecture_slides/nonlinear_registration/html/index.html) [pdf](lecture_slides/nonlinear_registration/nonlinear_registration.pdf)
+  + Model-based segmentation I: [html](lecture_slides/model_based_segmentation_I/html/index.html) [pdf](lecture_slides/model_based_segmentation_I/model_based_segmentation_I.pdf)
+  + Model-based segmentation II: [html](lecture_slides/model_based_segmentation_II/html/index.html) [pdf](lecture_slides/model_based_segmentation_II/model_based_segmentation_II.pdf)
+  + Neural Networks: [html](lecture_slides/neural_networks/html/index.html) [pdf](lecture_slides/neural_networks/neural_networks.pdf)
+
+All material is available from a [git repo](https://github.com/leempko/mia/) under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license, and can therefore be used freely in other courses.
 
 
 
