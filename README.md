@@ -1,6 +1,9 @@
 # Medical Image Analysis
 
-This is the web NBE-E4010
+This is the website of the Medical Image Analysis course (NBE-E4010) at Aalto University taught by [Koen Van Leemput](https://users.aalto.fi/vanlek2).
+
+https://mycourses.aalto.fi/course/view.php?id=44862
+
 
 
 ## Schedule
