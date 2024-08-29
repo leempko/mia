@@ -16,7 +16,7 @@ No exercises on the following dates: Thu 5 Sep, Thu 10 Oct, Thu 21 Nov and Thu 2
 
 |  Date | Activity | Location | Topic |  |
 | ---   | ---      | ---   | --- | --- |
-| Mon 2 Sep | Lecture |  F239a | Introduction to the course | - slides: [pdf](lecture_slides/introduction/intro.pdf) </br> - jupyter notebook [example](exampleNotebook.ipynb) |
+| Mon 2 Sep | Lecture |  F239a | Introduction to the course | - slides: [pdf](lecture_slides/introduction/intro.pdf) <br/> - jupyter notebook [example](exampleNotebook.ipynb) |
 
 ### Week 2
 
