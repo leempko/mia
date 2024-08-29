@@ -82,6 +82,13 @@ Exercises: Thursdays 12.15–14.00, Health Technology House, Auditorio - F239a (
 
 |  Date | Activity | Location | Topic |  |
 | ---   | ---      | ---   | --- | --- |
-| Mon 18 Nov | Lecture |  F239a | guest lecture Eero Salli (HUS) | |
+| Mon 18 Nov | Lecture |  F239a | guest lecture Aino Nieminen (Disior) | |
+
+### Week 12
+
+|  Date | Activity | Location | Topic |  |
+| ---   | ---      | ---   | --- | --- |
+| Mon 25 Nov | Lecture |  F239a | Student presentations of the last three exercises | |
+
 
 
