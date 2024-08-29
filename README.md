@@ -13,7 +13,7 @@ Exercises: Thursdays 12.15–14.00, Health Technology House, Auditorio - F239a (
 
 |  Date | Activity | Location | Topic |  |
 | ---   | ---      | ---   | --- | --- |
-| Mon 2 Sep | Lecture |  F239a | Introduction to the course | slides: [pdf](lecture_slides/introduction/intro.pdf) |
+| Mon 2 Sep | Lecture |  F239a | Introduction to the course | - slides: [pdf](lecture_slides/introduction/intro.pdf) </br> - jupyter notebook [example](exampleNotebook.ipynb) |
 
 ### Week 2
 
