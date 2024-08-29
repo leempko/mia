@@ -34,9 +34,8 @@ Exercises: Thursdays 12.15–14.00, Health Technology House, Auditorio - F239a (
 |  Date | Activity | Location | Topic |  |
 | ---   | ---      | ---   | --- | --- |
 | Mon 23 Sep | Lecture |  F239a | Intensity-based registration | - section 2.4 in the book, excluding Gauss-Newton optimization ([html](book/html/index.html?page=27) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/intensity_based_registration/html/index.html) [pdf](lecture_slides/intensity_based_registration/intensity_based_registration.pdf) |
-| Thu 12 Sep | Exercise | F239a | Smoothing and interpolation | - submission deadline: Wed 25 Sep at 23:59 |
+| Thu 26 Sep | Exercise | F239a | Mutual Information-based registration | - submission deadline: Wed 9 Oct: at 23:59 |
 
-: 
-= Thu 26 Sep: exercise MI registration
+
 
 
