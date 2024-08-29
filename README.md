@@ -60,6 +60,6 @@ Exercises: Thursdays 12.15–14.00, Health Technology House, Auditorio - F239a (
 
 |  Date | Activity | Location | Topic |  |
 | ---   | ---      | ---   | --- | --- |
-| Mon 28 Oct | Lecture |  F239a | Model-based segmentation II | |
+| Mon 28 Oct | Lecture |  F239a | Model-based segmentation II | - sections 3.4-3.5 in the book ([html](book/html/index.html?page=44) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/model_based_segmentation_II/html/index.html) [pdf](lecture_slides/model_based_segmentation_II/model_based_segmentation_II.pdf)|
 | Thu 31 Oct | Exercise | Y202a | Model-based segmentation | - submission deadline: Wed 13 Nov at 23:59 |
 
