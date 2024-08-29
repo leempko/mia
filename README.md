@@ -26,8 +26,8 @@ The course is heavily focused on solving actual exercises in Python (six in tota
 
 For the fall 2024 semester, lectures will be held on Mondays 12.15–14.00 in Health Technology House, Auditorio - F239a. Exercise sessions with teaching assistants present will be held on Thursdays 12.15–14.00, first in Health Technology House, Auditorio - F239a (before the autumn break) and then in the Undergraduate Center, A-sali (Aalto-sali) - Y202a (after the autumn break).
 
-  > [!NOTE]
-  > No exercise sessions will be organized on Thu 5 Sep, Thu 10 Oct, Thu 21 Nov and Thu 28 Nov.
+> [!NOTE]
+> No exercise sessions will be organized on Thu 5 Sep, Thu 10 Oct, Thu 21 Nov and Thu 28 Nov.
 
 A detailed schedule is given below:
 
