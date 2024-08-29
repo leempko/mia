@@ -49,9 +49,9 @@ A detailed schedule is given below:
 | | Thu 31 Oct | Exercise | Y202a | Model-based segmentation | - submission deadline: Wed 13 Nov at 23:59 |
 | 9 | Mon 4 Nov | Lecture |  F239a | Neural Networks | - chapter 4 in the book ([html](book/html/index.html?page=55) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/neural_networks/html/index.html) [pdf](lecture_slides/neural_networks/neural_networks.pdf)|
 | | Thu 7 Nov | Exercise | Y202a | Neural Networks | - submission deadline: Wed 20 Nov at 23:59 |
-| 10 | Mon 11 Nov | Lecture |  F239a | guest lecture Eero Salli (HUS) | |
+| 10 | Mon 11 Nov | Lecture |  F239a | Guest lecture Eero Salli (HUS) | |
 | | Thu 14 Nov | Exercise | Y202a | Neural Networks (cont.) | - submission deadline: Wed 20 Nov at 23:59 |
-| 11 | Mon 18 Nov | Lecture |  F239a | guest lecture Aino Nieminen (Disior) | |
+| 11 | Mon 18 Nov | Lecture |  F239a | Guest lecture Aino Nieminen (Disior) | |
 | 12 | Mon 25 Nov | Lecture |  F239a | Student presentations of the last three exercises | |
 
 
