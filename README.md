@@ -49,7 +49,17 @@ Exercises: Thursdays 12.15–14.00, Health Technology House, Auditorio - F239a (
 | ---   | ---      | ---   | --- | --- |
 | Mon 7 Oct | Lecture |  F239a | Model-based segmentation I | - sections 3.1-3.3 in the book ([html](book/html/index.html?page=35) [pdf](book/mia.pdf)) <br/> - probability refresher: [html](lecture_slides/model_based_segmentation_I/html_refresher/index.html) [pdf](lecture_slides/model_based_segmentation_I/refresher_on_probability.pdf) <br/> - slides: [html](lecture_slides/model_based_segmentation_I/html/index.html) [pdf](lecture_slides/model_based_segmentation_I/model_based_segmentation_I.pdf) |
 
+### Week 7
 
+|  Date | Activity | Location | Topic |  |
+| ---   | ---      | ---   | --- | --- |
+| Mon 21 Oct | Lecture |  F239a | Student presentations of the first three exercises | |
+| Thu 24 Oct | Exercise | Y202a | Nonlinear registration | - submission deadline: Wed 6 Nov at 23:59 |
 
+### Week 8
 
+|  Date | Activity | Location | Topic |  |
+| ---   | ---      | ---   | --- | --- |
+| Mon 28 Oct | Lecture |  F239a | Model-based segmentation II | - sections 3.4-3.5 in the book ([html](book/html/index.html?page=44) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/model_based_segmentation_II/html/index.html) [pdf](lecture_slides/model_based_segmentation_II/model_based_segmentation_II.pdf)|
+| Thu 31 Oct | Exercise | Y202a | Model-based segmentation | - submission deadline: Wed 13 Nov at 23:59 |
 
