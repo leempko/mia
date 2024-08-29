@@ -19,7 +19,8 @@ Exercises: Thursdays 12.15–14.00, Health Technology House, Auditorio - F239a (
 
 |  Date | Activity | Location | Topic |  |
 | ---   | ---      | ---   | --- | --- |
-| Mon 9 Sep | Lecture |  F239a | Image smoothing and interpolation | - Chapter 1 in the book ([html](book/html/index.html?page=19) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/smoothing_and_interpolation/html/index.html) [pdf](lecture_slides/smoothing_and_interpolation/smoothing_and_interpolation.pdf) |
+| Mon 9 Sep | Lecture |  F239a | Image smoothing and interpolation | - Chapter 1 in the book ([html](book/html/index.html?page=5) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/smoothing_and_interpolation/html/index.html) [pdf](lecture_slides/smoothing_and_interpolation/smoothing_and_interpolation.pdf) |
+| Thu 12 Sep | Exercise | F239a | Smoothing and interpolation | - submission deadline: Wed 25 Sep at 23:59 |
 
 
 
