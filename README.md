@@ -29,7 +29,7 @@ For the fall 2024 semester, lectures will be held on Mondays 12.15–14.00 in He
 > [!NOTE]
 > No exercise sessions will be organized on Thu 5 Sep, Thu 10 Oct, Thu 21 Nov and Thu 28 Nov.
 
-A detailed schedule is given below.
+A detailed schedule is given below:
 
 | Week |  Date | Activity | Location | Topic |  |
 | --- | ---   | ---      | ---   | --- | --- |
