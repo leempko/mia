@@ -70,3 +70,10 @@ Exercises: Thursdays 12.15–14.00, Health Technology House, Auditorio - F239a (
 | Mon 4 Nov | Lecture |  F239a | Neural Networks | - chapter 4 in the book ([html](book/html/index.html?page=55) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/neural_networks/html/index.html) [pdf](lecture_slides/neural_networks/neural_networks.pdf)|
 | Thu 7 Nov | Exercise | Y202a | Neural Networks | - submission deadline: Wed 20 Nov at 23:59 |
 
+### Week 10
+
+|  Date | Activity | Location | Topic |  |
+| ---   | ---      | ---   | --- | --- |
+| Mon 11 Nov | Lecture |  F239a | Neural Networks | guest lecture Eero Salli (HUS) |
+| Thu 14 Nov | Exercise | Y202a | Neural Networks (cont.) | - submission deadline: Wed 20 Nov at 23:59 |
+
