@@ -15,11 +15,9 @@ The teaching material used in the course consists of a tailor-made book and lect
 
 All material is available from a [git repo](https://github.com/leempko/mia/) under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license, and can therefore be used freely in other courses.
 
+## Implementation
 
-
-https://mycourses.aalto.fi/course/view.php?id=44862
-
-
+This website contains links to the teaching material and the schedule (see below). The [MyCourses](https://mycourses.aalto.fi/course/view.php?id=44862) website will only be used for all announcements, discussion fora (one general forum and a separate forum for each exercise assignment), and exercise assignments (material, report submissions and peer grading).
 
 ## Schedule
 
