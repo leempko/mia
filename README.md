@@ -29,4 +29,14 @@ Exercises: Thursdays 12.15–14.00, Health Technology House, Auditorio - F239a (
 | Mon 16 Sep | Lecture |  F239a | Coordinate systems, linear spatial transformations, landmark-based registration | - sections 2.1-2.3 in the book ([html](book/html/index.html?page=19) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/landmark_based_registration/html/index.html) [pdf](lecture_slides/landmark_based_registration/landmark_based_registration.pdf) |
 | Thu 19 Sep | Exercise | F239a | Landmark-based registration | - submission deadline: Wed 2 Oct at 23:59 |
 
+### Week 4
+
+|  Date | Activity | Location | Topic |  |
+| ---   | ---      | ---   | --- | --- |
+| Mon 23 Sep | Lecture |  F239a | Intensity-based registration | - section 2.4 in the book, excluding Gauss-Newton optimization ([html](book/html/index.html?page=27) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/intensity_based_registration/html/index.html) [pdf](lecture_slides/intensity_based_registration/intensity_based_registration.pdf) |
+| Thu 12 Sep | Exercise | F239a | Smoothing and interpolation | - submission deadline: Wed 25 Sep at 23:59 |
+
+: 
+= Thu 26 Sep: exercise MI registration
+
 
