@@ -1,6 +1,6 @@
 # Medical Image Analysis
 
-This is the website of the Medical Image Analysis course (NBE-E4010) at Aalto University taught by [Koen Van Leemput](https://users.aalto.fi/vanlek2).
+This is the website of the Medical Image Analysis course (NBE-E4010) taught by [Koen Van Leemput](https://users.aalto.fi/vanlek2) at Aalto University.
 
 The teaching material used in the course consists of a tailor-made book and lecture slides:  
 - book: [html](book/html/index.html) [pdf](book/mia.pdf)
