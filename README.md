@@ -50,7 +50,7 @@ A detailed schedule is given below:
 | | Thu 7 Nov | Exercise | Y202a | Neural Networks | - submission deadline: Wed 20 Nov at 23:59 |
 | 10 | Mon 11 Nov | Lecture |  F239a | Guest lecture Eero Salli (HUS) | |
 | | Thu 14 Nov | Exercise | Y202a | Neural Networks (cont.) | - submission deadline: Wed 20 Nov at 23:59 |
-| 11 | Mon 18 Nov | Lecture |  F239a | Guest lecture Aino Nieminen (Disior) | |
+| 11 | Mon 18 Nov | Lecture |  F239a | Guest lecture Aino Nieminen (Disior) and Jukka Erkkilä (Terveystalo) | |
 | 12 | Mon 25 Nov | Lecture | - F239a (room I) <br/> - F401 (room II) | Student presentations of the last three exercises | |
 
 
