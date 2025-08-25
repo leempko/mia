@@ -17,16 +17,19 @@ All material is available from a [git repo](https://github.com/leempko/mia/) und
 
 ## Implementation
 
-This website contains links to the teaching material and the schedule (see below). The [MyCourses](https://mycourses.aalto.fi/course/view.php?id=44862) website will be used in conjunction for all announcements, discussion fora (one [general forum](https://mycourses.aalto.fi/mod/forum/view.php?id=1232246) and a separate forum for each exercise assignment), and exercise assignments (material, report submissions and peer grading).
+This website contains links to the teaching material and the schedule (see below). The [MyCourses](https://mycourses.aalto.fi/user/index.php?id=49017) website will be used only for organizational purposes, such as group creation and exercise assignments (material, report submissions and peer grading). The primary communication channel (announcements, questions, ...) is the Zulip course chat (link in MyCourses, login with Aalto account).
 
-The course is heavily focused on solving actual exercises in Python (six in total). These exercises can be performed in groups of max 3 students. The course grading is based mostly (80% weight) on final report scores given by the course personnel (teacher and teaching assistants), after an initial peer grading by fellow students. Participating in the peer grading is required to pass the course, and the quality of peer grading carries a weight of 10%. Each student should also participate in student presentations where submitted reports are analyzed and discussed in class (weight 10%).
+The course is heavily focused on solving actual exercises in Python (five in total, each split into an initial "easy" and a subsequent "difficult" part). These exercises will be performed in groups of 2 students. The course grading is based mainly on report scores given by the course personnel (teacher and teaching assistants), after an initial peer grading by fellow students for the "difficult" parts of the exercises. Participating in the peer grading is required to pass the course, and helping to answer fellow students' questions in the Zulip chat is encouraged (and will be taken into account in the grading). Each student should also participate in student presentations where the submitted solutions to the "diifficult" parts of the exercises are analyzed and discussed in class.
 
 
 ## Schedule
 
-For the fall 2024 semester, lectures will be held on Mondays 12.15–14.00 in Health Technology House, Auditorio - F239a. Exercise sessions with teaching assistants present will be held on Thursdays 12.15–14.00, first in Health Technology House, Auditorio - F239a (before the autumn break) and then in the Undergraduate Center, A-sali (Aalto-sali) - Y202a (after the autumn break).
+For the fall 2025 semester, lectures will be held on Thursdays 12.15–14.00 in Health Technology House, Auditorio - F239a. Exercise sessions with teaching assistants present will be held immediately following the lectures (14:15-16:00) in Nanotalo room 228.
 
+<!--
 > Note: no exercise sessions will be organized on Thu 5 Sep, Thu 10 Oct, Thu 21 Nov and Thu 28 Nov.
+-->
+
 
 A detailed schedule is given below:
 
