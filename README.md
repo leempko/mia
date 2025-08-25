@@ -17,7 +17,9 @@ All material is available from a [git repo](https://github.com/leempko/mia/) und
 
 ## Implementation
 
-This website contains links to the teaching material and the schedule (see below). The [MyCourses](https://mycourses.aalto.fi/user/index.php?id=49017) website will be used only for organizational purposes, such as group creation and exercise assignments (material, report submissions and peer grading). The primary communication channel -- for announcements, asking questions, etc -- is the Zulip course chat (link in MyCourses, login with Aalto account).
+This website contains links to the teaching material and the schedule (see below). The [MyCourses](https://mycourses.aalto.fi/user/index.php?id=49017) website will be used only for organizational purposes, such as group creation and exercise assignments (material, report submissions and peer grading). 
+
+Note that **this course is *not* designed to be an online course**: the primary venue to have your questions answered by the teacher and the TAs, and to get regular feedback on your work, is to physically attend the lectures and the exercise sessions. A dedicated Zulip course chat (link in MyCourses, login with Aalto account) will be used for important announcements, and for asking questions not yet answered during the lectures or exercise sessions.
 
 The course is heavily focused on solving actual exercises in Python (five in total, each split into an initial "easy" and a subsequent "difficult" part). These exercises will be performed in groups of 2 students. The course grading is based mainly on report scores given by the course personnel (teacher and teaching assistants), after an initial peer grading by fellow students for the "difficult" parts of the exercises. Participating in the peer grading is required to pass the course, and helping to answer fellow students' questions in the Zulip chat is encouraged (and will be taken into account in the grading). Each student should also participate in student presentations where the submitted solutions to the "difficult" parts of the exercises are analyzed and discussed in class.
 
