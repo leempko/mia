@@ -57,7 +57,7 @@ A detailed schedule is given below:
 |   | Thu 6 Nov | Exercise | Nanotalo 228 | Neural networks (first part) | submission deadline: Wed 12 Nov at 23:59 |
 | 10 | Thu 13 Nov | Lecture  |  F239a | Student presentation: Model-based segmentation exercise | |
 |   | Thu 13 Nov | Exercise | Nanotalo 228 | Neural networks (second part) | submission deadline: Wed 19 Nov at 23:59 |
-| 11 | Thu 20 Nov | Lecture  |  F239a | Guest lecture | |
+| 11 | Thu 20 Nov | Lecture  |  F239a | Guest lecture | Hannu Laaksonen, Varian (Siemens Healthineers) |
 | 12 | Thu 27 Nov | Lecture  |  F239a | Student presentation: Neural networks exercise. Course wrap-up | |
 
 
