@@ -40,14 +40,11 @@ A detailed schedule is given below:
 | 2 | Mon 7 Sep | Lecture  |  U141 | Image smoothing and interpolation | - chapter 1 in the book ([html](book/html/index.html?page=5) [pdf](book/mia.pdf)) <br/> - introduction: [html](lecture_slides/introduction/html/index.html) [pdf](lecture_slides/introduction/intro.pdf) <br/> - slides: [html](lecture_slides/smoothing_and_interpolation/html/index.html) [pdf](lecture_slides/smoothing_and_interpolation/smoothing_and_interpolation.pdf) |
 |   | Tue 8 Sep | Exercise | A123 | Smoothing and interpolation | submission deadline: Fri 18 Sep at 23:59 |
 | 3 | Mon 14 Sep | Lecture  |  U141 | Coordinate systems, linear spatial transformations, landmark-based registration | - sections 2.1-2.3 in the book ([html](book/html/index.html?page=19) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/landmark_based_registration/html/index.html) [pdf](lecture_slides/landmark_based_registration/landmark_based_registration.pdf) |
-
 |   | Tue 15 Sep | Exercise | A123 | Landmark-based registration | submission deadline: Fri 25 Sep at 23:59 |
-| 4 | Mon 21 Sep | Lecture  | U141 | Intensity-based registration | - section 2.4 in the book, excluding Gauss-Newton optimization ([html](book/html/index.html?page=27) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/intensity_based_registration/html/index.html) [pdf](lecture_slides/intensity_based_registration/intensity_based_registration.pdf) 
-<!--
-<br/> - lecture [recording](https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=59da6aba-ad83-4838-9577-b1f40099b4f9) 
--->
-|
+| 4 | Mon 21 Sep | Lecture  | U141 | Intensity-based registration | - section 2.4 in the book, excluding Gauss-Newton optimization ([html](book/html/index.html?page=27) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/intensity_based_registration/html/index.html) [pdf](lecture_slides/intensity_based_registration/intensity_based_registration.pdf) |
 |   | Tue 22 Sep | Exercise | A123 |  Landmark-based registration (second part) | submission deadline: Fri 25 Sep at 23:59 |
+
+
 | 5 | Mon 28 Sep | Lecture  |  U141 | Nonlinear registration | - sections 2.2.2 and 2.4 in the book, especially Gauss-Newton optimization ([html](book/html/index.html?page=25) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/nonlinear_registration/html/index.html) [pdf](lecture_slides/nonlinear_registration/nonlinear_registration.pdf) 
 <!--
 <br/> - lecture [recording](https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a7a1e6ac-1621-4c55-8fa5-b1fb0099319a)  
