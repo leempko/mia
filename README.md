@@ -17,7 +17,7 @@ All material is available from a [git repo](https://github.com/leempko/mia/) und
 
 ## Implementation
 
-This website only contains links to the teaching material and the schedule (see below). The [MyCourses](https://mycourses.aalto.fi/user/index.php?id=49017) website will be used for the practical implementation, such as group creation and exercise assignments (material, report submissions and peer grading) as well as announcements and discussion fora. 
+This website only contains links to the teaching material and the schedule (see below). The [MyCourses](https://mycourses.aalto.fi/course/view.php?id=51906) website will be used for the practical implementation, such as group creation and exercise assignments (material, report submissions and peer grading) as well as announcements and discussion fora. 
 
 Note that **this course is *not* designed to be an online course**: the primary venue to have your questions answered by the teacher and the TAs, and to get detailed feedback on your work, is to physically attend the lectures and the exercise sessions.
 
