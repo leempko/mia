@@ -17,48 +17,75 @@ All material is available from a [git repo](https://github.com/leempko/mia/) und
 
 ## Implementation
 
-This website contains links to the teaching material and the schedule (see below). The [MyCourses](https://mycourses.aalto.fi/user/index.php?id=49017) website will be used only for organizational purposes, such as group creation and exercise assignments (material, report submissions and peer grading). 
+This website only contains links to the teaching material and the schedule (see below). The [MyCourses](https://mycourses.aalto.fi/user/index.php?id=49017) website will be used for the practical implementation, such as group creation and exercise assignments (material, report submissions and peer grading) as well as announcements and discussion fora. 
 
-Note that **this course is *not* designed to be an online course**: the primary venue to have your questions answered by the teacher and the TAs, and to get regular feedback on your work, is to physically attend the lectures and the exercise sessions. A dedicated Zulip course chat (link in MyCourses, login with Aalto account) will be used for important announcements, and for asking questions not yet answered during the lectures or exercise sessions.
+Note that **this course is *not* designed to be an online course**: the primary venue to have your questions answered by the teacher and the TAs, and to get detailed feedback on your work, is to physically attend the lectures and the exercise sessions.
 
-The course is heavily focused on solving actual exercises in NumPy/Python (five in total, each split into an initial "easy" and a subsequent "difficult" part). These exercises will be performed in groups of 2 students. The course grading is based mainly on report scores given by the course personnel (teacher and teaching assistants), after an initial peer grading by fellow students for the "difficult" parts of the exercises. 
+The course is heavily focused on solving actual exercises in NumPy/Python (six in total). These exercises will be performed in groups of max 3 students, with reports that will be both peer graded and lightly reviewed by the course personnel (teacher and TAs). 
 
-Participating in the peer grading is required to pass the course, and helping to answer fellow students' questions in the Zulip chat is encouraged (and will be viewed positively in the grading). Each student should also participate in student presentations where the submitted solutions to the "difficult" parts of the exercises are analyzed and discussed in class.
-
+The actual course grading will be based on a final, individual oral examination, guided by the exercise reports that your group submitted throughout the course period. Participating in the peer grading is required to pass the course, and helping to answer fellow students' questions in the discussion fora is encouraged (and will be viewed positively in the grading). 
 
 ## Schedule
 
-For the fall 2025 semester, lectures will be held on Thursdays 12.15–14.00 in Health Technology House, Auditorio - F239a. Exercise sessions with teaching assistants present will be held immediately following the lectures (14:15-16:00) in Nanotalo room 228.
+For the fall 2026 semester, lectures will be held on Mondays 12.15–14.00 in U141 U3 (Undergraduate Center, Otakaari 1). Exercise sessions with teaching assistants present will be held on Tuesdays (10:15-12:00) in A123 A1 (Undergraduate Center, Otakaari 1).
 
-> Note: no exercise sessions will be organized on Thu 20 Nov and Thu 27 Nov.
+> Note: no exercise sessions will be organized on Tue 17 Nov and Tue 24 Nov.
 
 
 A detailed schedule is given below:
 
 | Week |  Date | Activity | Location | Topic |  |
 | --- | ---   | ---      | ---   | --- | --- |
-| 1 | Thu 4 Sep | Lecture  |  F239a | Introduction; Image smoothing and interpolation | - chapter 1 in the book ([html](book/html/index.html?page=5) [pdf](book/mia.pdf)) <br/> - introduction: [html](lecture_slides/introduction/html/index.html) [pdf](lecture_slides/introduction/intro.pdf) <br/> - slides: [html](lecture_slides/smoothing_and_interpolation/html/index.html) [pdf](lecture_slides/smoothing_and_interpolation/smoothing_and_interpolation.pdf) <br/> - lecture [recording](https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a7f7f745-90fc-4d09-9d99-b1e600985360) |
-|   | Thu 4 Sep | Exercise | Nanotalo 228 | Smoothing and interpolation (first part) | submission deadline: Wed 10 Sep at 23:59 |
-| 2 | Thu 11 Sep | Lecture  |  F239a | Coordinate systems, linear spatial transformations, landmark-based registration | - sections 2.1-2.3 in the book ([html](book/html/index.html?page=19) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/landmark_based_registration/html/index.html) [pdf](lecture_slides/landmark_based_registration/landmark_based_registration.pdf) <br/> - lecture [recording](https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1ba65dbd-ff20-4358-9a7a-b1ed0098c11d)  |
-|   | Thu 11 Sep | Exercise | Nanotalo 228 | Smoothing and interpolation (second part) | submission deadline: Wed 17 Sep at 23:59 |
-| 3 | Thu 18 Sep | Lecture  |  F239a | Intensity-based registration | - section 2.4 in the book, excluding Gauss-Newton optimization ([html](book/html/index.html?page=27) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/intensity_based_registration/html/index.html) [pdf](lecture_slides/intensity_based_registration/intensity_based_registration.pdf) <br/> - lecture [recording](https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=59da6aba-ad83-4838-9577-b1f40099b4f9) |
-|   | Thu 18 Sep | Exercise | Nanotalo 228 | Linear registration (first part) | submission deadline: Wed 24 Sep at 23:59 |
-| 4 | Thu 25 Sep | Lecture  |  F239a | Student presentation: smoothing and interpolation exercise | |
-|   | Thu 25 Sep | Exercise | Nanotalo 228 |  Linear registration (second part) | submission deadline: Wed 1 Oct at 23:59 |
-| 5 | Thu 2 Oct | Lecture  |  F239a | Nonlinear registration | - sections 2.2.2 and 2.4 in the book, especially Gauss-Newton optimization ([html](book/html/index.html?page=25) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/nonlinear_registration/html/index.html) [pdf](lecture_slides/nonlinear_registration/nonlinear_registration.pdf) <br/> - lecture [recording](https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a7a1e6ac-1621-4c55-8fa5-b1fb0099319a)  |
-|   | Thu 2 Oct | Exercise | Nanotalo 228 | Nonlinear registration (first part) | submission deadline: Wed 8 Oct at 23:59 |
-| 6 | Thu 9 Oct | Lecture  |  F239a | Student presentation: Linear registration exercise; Model-based segmentation I | - sections 3.1-3.3 in the book ([html](book/html/index.html?page=35) [pdf](book/mia.pdf)) <br/> - probability refresher: [html](lecture_slides/model_based_segmentation_I/html_refresher/index.html) [pdf](lecture_slides/model_based_segmentation_I/refresher_on_probability.pdf) <br/> - slides: [html](lecture_slides/model_based_segmentation_I/html/index.html) [pdf](lecture_slides/model_based_segmentation_I/model_based_segmentation_I.pdf) <br/> - lecture [recording](https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=de8f4418-c466-482c-92f4-b20200997a94) |
-|   | Thu 9 Oct | Exercise | Nanotalo 228 | Nonlinear registration (second part) | submission deadline: Wed 22 Oct at 23:59 |
-| 7 | Thu 23 Oct | Lecture  |  F239a | Model-based segmentation II | - sections 3.4-3.5 in the book ([html](book/html/index.html?page=44) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/model_based_segmentation_II/html/index.html) [pdf](lecture_slides/model_based_segmentation_II/model_based_segmentation_II.pdf) |
-|   | Thu 23 Oct | Exercise | Nanotalo 228 | Model-based segmentation (first part) | submission deadline: Wed 29 Oct at 23:59 |
-| 8 | Thu 30 Oct | Lecture  |  F239a | Student presentation: Nonlinear registration exercise | |
-|   | Thu 30 Oct | Exercise | Nanotalo 228 | Model-based segmentation (second part) | submission deadline: Wed 5 Nov at 23:59 |
-| 9 | Thu 6 Nov | Lecture  |  F239a | Neural networks | - chapter 4 in the book ([html](book/html/index.html?page=55) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/neural_networks/html/index.html) [pdf](lecture_slides/neural_networks/neural_networks.pdf) <br/> - lecture [recording](https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0d54885a-8f21-453c-94f5-b21e00aa3756) |
-|   | Thu 6 Nov | Exercise | Nanotalo 228 | Neural networks (first part) | submission deadline: Wed 12 Nov at 23:59 |
-| 10 | Thu 13 Nov | Lecture  |  F239a | Student presentation: Model-based segmentation exercise | |
-|   | Thu 13 Nov | Exercise | Nanotalo 228 | Neural networks (second part) | submission deadline: Wed 19 Nov at 23:59 |
-| 11 | Thu 20 Nov | Lecture  |  F239a | Guest lecture | Hannu Laaksonen, Varian (Siemens Healthineers) |
-| 12 | Thu 27 Nov | Lecture  |  F239a | Student presentation: Neural networks exercise. Course wrap-up | |
+| 1 | Mon 31 Aug | Lecture  |  U141 | Introduction | - introduction: [html](lecture_slides/introduction/html/index.html) [pdf](lecture_slides/introduction/intro.pdf) |
+| 2 | Mon 7 Sep | Lecture  |  U141 | Image smoothing and interpolation | - chapter 1 in the book ([html](book/html/index.html?page=5) [pdf](book/mia.pdf)) <br/> - introduction: [html](lecture_slides/introduction/html/index.html) [pdf](lecture_slides/introduction/intro.pdf) <br/> - slides: [html](lecture_slides/smoothing_and_interpolation/html/index.html) [pdf](lecture_slides/smoothing_and_interpolation/smoothing_and_interpolation.pdf) 
+<!--
+<br/> - lecture [recording](https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a7f7f745-90fc-4d09-9d99-b1e600985360)
+-->
+|
+|   | Tue 8 Sep | Exercise | A123 | Smoothing and interpolation | submission deadline: Fri 18 Sep at 23:59 |
+| 3 | Mon 14 Sep | Lecture  |  U141 | Coordinate systems, linear spatial transformations, landmark-based registration | - sections 2.1-2.3 in the book ([html](book/html/index.html?page=19) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/landmark_based_registration/html/index.html) [pdf](lecture_slides/landmark_based_registration/landmark_based_registration.pdf) 
+<!--
+<br/> - lecture [recording](https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1ba65dbd-ff20-4358-9a7a-b1ed0098c11d) 
+-->
+|
+|   | Tue 15 Sep | Exercise | A123 | Landmark-based registration | submission deadline: Fri 25 Sep at 23:59 |
+| 4 | Mon 21 Sep | Lecture  | U141 | Intensity-based registration | - section 2.4 in the book, excluding Gauss-Newton optimization ([html](book/html/index.html?page=27) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/intensity_based_registration/html/index.html) [pdf](lecture_slides/intensity_based_registration/intensity_based_registration.pdf) 
+<!--
+<br/> - lecture [recording](https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=59da6aba-ad83-4838-9577-b1f40099b4f9) 
+-->
+|
+|   | Tue 22 Sep | Exercise | A123 |  Landmark-based registration (second part) | submission deadline: Fri 25 Sep at 23:59 |
+| 5 | Mon 28 Sep | Lecture  |  U141 | Nonlinear registration | - sections 2.2.2 and 2.4 in the book, especially Gauss-Newton optimization ([html](book/html/index.html?page=25) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/nonlinear_registration/html/index.html) [pdf](lecture_slides/nonlinear_registration/nonlinear_registration.pdf) 
+<!--
+<br/> - lecture [recording](https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a7a1e6ac-1621-4c55-8fa5-b1fb0099319a)  
+-->
+|
+|   | Tue 29 Sep | Exercise | A123 | Intensity-based registration | submission deadline: Fri 9 Oct at 23:59 |
+| 6 | Mon 5 Oct | Lecture  |  U141 | Model-based segmentation I | - sections 3.1-3.3 in the book ([html](book/html/index.html?page=35) [pdf](book/mia.pdf)) <br/> - probability refresher: [html](lecture_slides/model_based_segmentation_I/html_refresher/index.html) [pdf](lecture_slides/model_based_segmentation_I/refresher_on_probability.pdf) <br/> - slides: [html](lecture_slides/model_based_segmentation_I/html/index.html) [pdf](lecture_slides/model_based_segmentation_I/model_based_segmentation_I.pdf) 
+<!--
+<br/> - lecture [recording](https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=de8f4418-c466-482c-92f4-b20200997a94) 
+-->
+|
+|   | Tue 6 Oct | Exercise | A123 | Nonlinear registration | submission deadline: Fri 25 Oct at 23:59 |
+| 7 | Mon 19 Oct | Lecture  |  U141 | Model-based segmentation II | - sections 3.4-3.5 in the book ([html](book/html/index.html?page=44) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/model_based_segmentation_II/html/index.html) [pdf](lecture_slides/model_based_segmentation_II/model_based_segmentation_II.pdf) |
+|   | Tue 20 Oct | Exercise | A123 | Model-based segmentation | submission deadline: Fri 30 Oct at 23:59 |
+| 8 | Mon 26 Oct | Lecture  |  U141 | Exercise review session I | |
+|   | Tue 27 Oct | Exercise | A123 | Model-based segmentation (cont.) | submission deadline: Fri 30 Oct at 23:59 |
+| 9 | Mon 2 Nov | Lecture  |  U141 | Neural networks | - chapter 4 in the book ([html](book/html/index.html?page=55) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/neural_networks/html/index.html) [pdf](lecture_slides/neural_networks/neural_networks.pdf) 
+<!--
+<br/> - lecture [recording](https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0d54885a-8f21-453c-94f5-b21e00aa3756) 
+-->
+|
+|   | Tue 3 Nov | Exercise | A123 | Neural networks | submission deadline: Fri 13 Nov at 23:59 |
+| 10 | Mon 9 Nov | Lecture  |  U141 | Guest lecture | TBD |
+|   | Tue 10 Nov | Exercise | A123 | Neural networks (cont.) | submission deadline: Fri 13 Nov at 23:59 |
+| 11 | Mon 16 Nov | Lecture  |  U141 | Guest lecture | TBD |
+|   | Tue 17 Nov | Exercise | A123 | no exercise | |
+| 12 | Mon 23 Nov | Lecture  |  U141 | Exercise review session II; course wrap-up | |
+|   | Tue 24 Nov | Exercise | A123 | no exercise | |
+| 13 | Mon-Fri 30 Nov - 4 Dec | Oral exam |  | | |
+| 14 | Mon-Fri 7-11 Dec       | Oral exam |  | | |
+
 
 
 
