@@ -36,7 +36,7 @@ A detailed schedule is given below:
 
 | Week |  Date | Activity | Location | Topic |  |
 | --- | ---   | ---      | ---   | --- | --- |
-| 1 | Mon 31 Aug | Lecture  |  U141 | Introduction and group selection | - introduction: [pdf](lecture_slides/introduction/intro.pdf)  <br/> - [example jupyter notebook] (lecture_slides/introduction/exampleNotebook.ipynb) | 
+| 1 | Mon 31 Aug | Lecture  |  U141 | Introduction and group selection | - introduction: [pdf](lecture_slides/introduction/introduction2026.pdf)  <br/> - [example jupyter notebook](lecture_slides/introduction/exampleNotebook.ipynb) | 
 | 2 | Mon 7 Sep | Lecture  |  U141 | Image smoothing and interpolation | - chapter 1 in the book ([html](book/html/index.html?page=5) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/smoothing_and_interpolation/html/index.html) [pdf](lecture_slides/smoothing_and_interpolation/smoothing_and_interpolation.pdf) |
 |   | Tue 8 Sep | Exercise | A123 | Smoothing and interpolation | submission deadline: Fri 18 Sep at 23:59 |
 | 3 | Mon 14 Sep | Lecture  |  U141 | Coordinate systems, linear spatial transformations, landmark-based registration | - sections 2.1-2.3 in the book ([html](book/html/index.html?page=19) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/landmark_based_registration/html/index.html) [pdf](lecture_slides/landmark_based_registration/landmark_based_registration.pdf) |
