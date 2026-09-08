@@ -53,9 +53,9 @@ A detailed schedule is given below:
 |   | Tue 27 Oct | Exercise | A123 | Model-based segmentation (cont.) | submission deadline: Fri 30 Oct at 23:59 |
 | 9 | Mon 2 Nov | Lecture  |  U141 | Neural networks | - chapter 4 in the book ([html](book/html/index.html?page=55) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/neural_networks/html/index.html) [pdf](lecture_slides/neural_networks/neural_networks.pdf) |
 |   | Tue 3 Nov | Exercise | A123 | Neural networks | submission deadline: Fri 13 Nov at 23:59 |
-| 10 | Mon 9 Nov | Lecture  |  U141 | Guest lecture | Mika Kortesniemi, PhD. <br/> Chief Medical Physicist at Helsinki University Central Hospital  |
+| 10 | Mon 9 Nov | Lecture  |  U141 | Guest lecture | Mika Kortesniemi, PhD <br/> Chief Medical Physicist at Helsinki University Central Hospital  |
 |   | Tue 10 Nov | Exercise | A123 | Neural networks (cont.) | submission deadline: Fri 13 Nov at 23:59 |
-| 11 | Mon 16 Nov | Lecture  |  U141 | Guest lecture | TBD |
+| 11 | Mon 16 Nov | Lecture  |  U141 | Guest lecture | Jyrki Lötjönen, PhD <br/> CSO at Combinostics |
 |   | Tue 17 Nov | Exercise | A123 | no exercise | |
 | 12 | Mon 23 Nov | Lecture  |  U141 | Exercise review session II; course wrap-up | |
 |   | Tue 24 Nov | Exercise | A123 | no exercise | |
