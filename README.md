@@ -27,7 +27,7 @@ The actual course grading will be based on a final, individual oral examination,
 
 ## Schedule
 
-For the fall 2026 semester, lectures will be held on Mondays 12.15–14.00 in U141 U3 (Undergraduate Center, Otakaari 1). Exercise sessions with teaching assistants present will be held on Tuesdays (10:15-12:00) in A123 A1 (Undergraduate Center, Otakaari 1).
+For the fall 2026 semester, lectures will be held on Mondays 12.15–14.00 in U141 U3 (Undergraduate Center, Otakaari 1). Exercise sessions with teaching assistants present will be held on Tuesdays (10:15-12:00) in ~~A123 A1~~ ==Y429c-d== (Undergraduate Center, Otakaari 1).
 
 > Note: no exercise sessions will be organized on Tue 17 Nov and Tue 24 Nov.
 
