@@ -38,27 +38,27 @@ A detailed schedule is given below:
 | --- | ---   | ---      | ---   | --- | --- |
 | 1 | Mon 31 Aug | Lecture  |  U141 | Introduction and group selection | - introduction: [pdf](lecture_slides/introduction/introduction2026.pdf)  <br/> - [example jupyter notebook](lecture_slides/introduction/exampleNotebook.ipynb) | 
 | 2 | Mon 7 Sep | Lecture  |  U141 | Image smoothing and interpolation | - chapter 1 in the book ([html](book/html/index.html?page=5) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/smoothing_and_interpolation/html/index.html) [pdf](lecture_slides/smoothing_and_interpolation/smoothing_and_interpolation.pdf) |
-|   | Tue 8 Sep | Exercise | A123 | Smoothing and interpolation | submission deadline: Fri 18 Sep at 23:59 |
+|   | Tue 8 Sep | Exercise | ~~A123~~ <mark>Y429c-d</mark> | Smoothing and interpolation | submission deadline: Fri 18 Sep at 23:59 |
 | 3 | Mon 14 Sep | Lecture  |  U141 | Coordinate systems, linear spatial transformations, landmark-based registration | - sections 2.1-2.3 in the book ([html](book/html/index.html?page=19) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/landmark_based_registration/html/index.html) [pdf](lecture_slides/landmark_based_registration/landmark_based_registration.pdf) |
-|   | Tue 15 Sep | Exercise | A123 | Landmark-based registration | submission deadline: Fri 25 Sep at 23:59 |
+|   | Tue 15 Sep | Exercise | ~~A123~~ <mark>Y429c-d</mark> | Landmark-based registration | submission deadline: Fri 25 Sep at 23:59 |
 | 4 | Mon 21 Sep | Lecture  | U141 | Intensity-based registration | - section 2.4 in the book, excluding Gauss-Newton optimization ([html](book/html/index.html?page=27) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/intensity_based_registration/html/index.html) [pdf](lecture_slides/intensity_based_registration/intensity_based_registration.pdf) |
-|   | Tue 22 Sep | Exercise | A123 |  Landmark-based registration (cont.) | submission deadline: Fri 25 Sep at 23:59 |
+|   | Tue 22 Sep | Exercise | ~~A123~~ <mark>Y429c-d</mark> |  Landmark-based registration (cont.) | submission deadline: Fri 25 Sep at 23:59 |
 | 5 | Mon 28 Sep | Lecture  |  U141 | Nonlinear registration | - sections 2.2.2 and 2.4 in the book, especially Gauss-Newton optimization ([html](book/html/index.html?page=25) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/nonlinear_registration/html/index.html) [pdf](lecture_slides/nonlinear_registration/nonlinear_registration.pdf) |
-|   | Tue 29 Sep | Exercise | A123 | Intensity-based registration | submission deadline: Fri 9 Oct at 23:59 |
+|   | Tue 29 Sep | Exercise | ~~A123~~ <mark>Y429c-d</mark> | Intensity-based registration | submission deadline: Fri 9 Oct at 23:59 |
 | 6 | Mon 5 Oct | Lecture  |  U141 | Model-based segmentation I | - sections 3.1-3.3 in the book ([html](book/html/index.html?page=35) [pdf](book/mia.pdf)) <br/> - probability refresher: [html](lecture_slides/model_based_segmentation_I/html_refresher/index.html) [pdf](lecture_slides/model_based_segmentation_I/refresher_on_probability.pdf) <br/> - slides: [html](lecture_slides/model_based_segmentation_I/html/index.html) [pdf](lecture_slides/model_based_segmentation_I/model_based_segmentation_I.pdf) |
-|   | Tue 6 Oct | Exercise | A123 | Nonlinear registration | submission deadline: Fri 25 Oct at 23:59 |
+|   | Tue 6 Oct | Exercise | ~~A123~~ <mark>Y429c-d</mark> | Nonlinear registration | submission deadline: Fri 25 Oct at 23:59 |
 | 7 | Mon 19 Oct | Lecture  |  U141 | Model-based segmentation II | - sections 3.4-3.5 in the book ([html](book/html/index.html?page=44) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/model_based_segmentation_II/html/index.html) [pdf](lecture_slides/model_based_segmentation_II/model_based_segmentation_II.pdf) |
-|   | Tue 20 Oct | Exercise | A123 | Model-based segmentation | submission deadline: Fri 30 Oct at 23:59 |
+|   | Tue 20 Oct | Exercise | ~~A123~~ <mark>Y429c-d</mark> | Model-based segmentation | submission deadline: Fri 30 Oct at 23:59 |
 | 8 | Mon 26 Oct | Lecture  |  U141 | Exercise review session I | |
-|   | Tue 27 Oct | Exercise | A123 | Model-based segmentation (cont.) | submission deadline: Fri 30 Oct at 23:59 |
+|   | Tue 27 Oct | Exercise | ~~A123~~ <mark>Y429c-d</mark> | Model-based segmentation (cont.) | submission deadline: Fri 30 Oct at 23:59 |
 | 9 | Mon 2 Nov | Lecture  |  U141 | Neural networks | - chapter 4 in the book ([html](book/html/index.html?page=55) [pdf](book/mia.pdf)) <br/> - slides: [html](lecture_slides/neural_networks/html/index.html) [pdf](lecture_slides/neural_networks/neural_networks.pdf) |
-|   | Tue 3 Nov | Exercise | A123 | Neural networks | submission deadline: Fri 13 Nov at 23:59 |
+|   | Tue 3 Nov | Exercise | ~~A123~~ <mark>Y429c-d</mark> | Neural networks | submission deadline: Fri 13 Nov at 23:59 |
 | 10 | Mon 9 Nov | Lecture  |  U141 | Guest lecture | Mika Kortesniemi, PhD <br/> Chief Medical Physicist at Helsinki University Central Hospital  |
-|   | Tue 10 Nov | Exercise | A123 | Neural networks (cont.) | submission deadline: Fri 13 Nov at 23:59 |
+|   | Tue 10 Nov | Exercise | ~~A123~~ <mark>Y429c-d</mark> | Neural networks (cont.) | submission deadline: Fri 13 Nov at 23:59 |
 | 11 | Mon 16 Nov | Lecture  |  U141 | Guest lecture | Jyrki Lötjönen, PhD <br/> CSO at Combinostics |
-|   | Tue 17 Nov | Exercise | A123 | no exercise | |
+|   | Tue 17 Nov | Exercise | ~~A123~~ <mark>Y429c-d</mark> | no exercise | |
 | 12 | Mon 23 Nov | Lecture  |  U141 | Exercise review session II; course wrap-up | |
-|   | Tue 24 Nov | Exercise | A123 | no exercise | |
+|   | Tue 24 Nov | Exercise | ~~A123~~ <mark>Y429c-d</mark> | no exercise | |
 | 13 | Mon-Fri 30 Nov - 4 Dec | Oral exam |  | | |
 | 14 | Mon-Fri 7-11 Dec       | Oral exam |  | | |
 
