@@ -56,9 +56,9 @@ A detailed schedule is given below:
 | 10 | Mon 9 Nov | Lecture  |  U141 | Guest lecture | Mika Kortesniemi, PhD <br/> Chief Medical Physicist at Helsinki University Central Hospital  |
 |   | Tue 10 Nov | Exercise | ~~A123~~ <mark>Y429c-d</mark> | Neural networks (cont.) | submission deadline: Fri 13 Nov at 23:59 |
 | 11 | Mon 16 Nov | Lecture  |  U141 | Guest lecture | Jyrki Lötjönen, PhD <br/> CSO at Combinostics |
-|   | Tue 17 Nov | Exercise | ~~A123~~ <mark>Y429c-d</mark> | no exercise | |
+|   | Tue 17 Nov | Exercise | - | no exercise | |
 | 12 | Mon 23 Nov | Lecture  |  U141 | Exercise review session II; course wrap-up | |
-|   | Tue 24 Nov | Exercise | ~~A123~~ <mark>Y429c-d</mark> | no exercise | |
+|   | Tue 24 Nov | Exercise | - | no exercise | |
 | 13 | Mon-Fri 30 Nov - 4 Dec | Oral exam |  | | |
 | 14 | Mon-Fri 7-11 Dec       | Oral exam |  | | |
 
